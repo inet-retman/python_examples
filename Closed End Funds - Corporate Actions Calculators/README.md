@@ -140,4 +140,7 @@ target_shares_post_tender =  700
 target_shares_proceeds =  3286.5
 target_shares_post_tender_cost_basis =  2.601235714285714
 pnl =  47.13500000000022
+tender_offer_pnl =  54.13500000000022
+target_shares_pnl = -7.0
+pnl %   =  1.0018065887353926
 ```
