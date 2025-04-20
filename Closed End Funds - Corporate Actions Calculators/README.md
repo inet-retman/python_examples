@@ -81,6 +81,7 @@ position_distributions        = 185.89     # dividends, distributions, accumulat
 In this scenario, we hold 2000 shares of "BBF" which will be aquired by "BLE". Since the aquiring fund's premium is larger then the target fund's current discount and the target fund has appreciated in market price since the shares were aquired, both the MTM and projected post-merger values are profitable.
 
 ```
+$ ./merger_arb_pnl_BBF.py
                     Funds             BBF             BLE
                  Mkt Px $            14.1            15.5
                  NAV Px $            14.3           14.95
