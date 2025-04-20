@@ -6,9 +6,9 @@ I wrote these scripts mostly in 2020-21 and used Yahoo! Stocks, cefconnect.com, 
 
 *DISCLAIMER:* **Trading in closed end funds undergoing corporate actions requires more complex analysis then the scripts here perform, risk of loss or profit is impacted by a myriad of valuation factors including trading volume, the make-up of shareholders, corporate action processing, stock/loan borrow availability and rates, distributions, and NAV price volatility, among many other factors**    
 
-- [merger_arb_opportunity.py](#merger_arb_opportunity)
-- [merger_arb_pnl.py](#merger_arb_pnl)
-- [tender_offer_opportunity.py](#tender_offer_opportunity)
+- [merger_arb_opportunity.py](#merger_arb_opportunitypy)
+- [merger_arb_pnl.py](#merger_arb_pnlpy)
+- [tender_offer_opportunity.py](#tender_offer_opportunitypy)
 
 Depending on available data sources, scripts were amended to auto-update prices, NAVs, positions, etc. or required manual update.
 
