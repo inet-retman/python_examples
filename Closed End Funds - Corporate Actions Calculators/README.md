@@ -105,7 +105,7 @@ MTM Distrib. Adj. Gain/Loss %  2.996698113207547
 ```
 ## tender_offer_opportunity.py
 
-This script runs and prints out a summary of what the expected PnL and remaining shares would be if a closed end fund tender offer corporate action was conducted based on acquiring shares at the given market price, NAV, and pro-rata.
+This script runs and prints out a summary of what the expected PnL and remaining shares would be if a closed end fund tender offer corporate action was conducted based on acquiring shares at the given market price, NAV, and pro-rata, and the remaining shares not repurchased were sold at the market price.
 
 The user must edit the script to input the values for
 
@@ -138,7 +138,6 @@ tender_offer_shares_repurchased =  300
 tender_offer_proceeds =  1465.6350000000002
 target_shares_post_tender =  700
 target_shares_proceeds =  3286.5
-target_shares_post_tender_cost_basis =  2.601235714285714
 pnl =  47.13500000000022
 tender_offer_pnl =  54.13500000000022
 target_shares_pnl = -7.0
