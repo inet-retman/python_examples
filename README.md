@@ -1,6 +1,6 @@
 # Simple Python Examples To Show
 
-The purpose of the contents of this repo is to demonstrate to potential employers and colleagues python code I have written.
+The purpose of the contents of this repo is to demonstrate to potential employers and colleagues python code I have written in a personal capacity.
 
 [Closed End Fund Calculator Scripts](https://github.com/inet-retman/python_examples/tree/main/Closed%20End%20Funds%20-%20Corporate%20Actions%20Calculators) - 3 general scripts I used while trading closed end funds undergoing corporate actions
 
